@@ -1,0 +1,215 @@
+Python
+Java
+C++
+C#
+JavaScript
+HTML
+CSS
+SQL
+NoSQL
+MongoDB
+React
+Angular
+Vue.js
+Node.js
+PHP
+Ruby
+Swift
+Kotlin
+Android Development
+iOS Development
+Linux
+Windows Server
+Docker
+Kubernetes
+Git
+GitHub
+AWS
+Azure
+Google Cloud
+DevOps
+Artificial Intelligence
+AI
+Machine Learning
+Deep Learning
+LLM
+Large Language Model
+Prompt
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas
+Numpy
+Data Analysis
+Big Data
+Hadoop
+Spark
+Cybersecurity
+Penetration Testing
+Blockchain
+Solidity
+Virtualization
+VMware
+UI/UX Design
+Agile
+Scrum
+Jenkins
+Ansible
+Terraform
+Rust
+Go
+Perl
+Bash Scripting
+Ruby on Rails
+Django
+Flask
+Spring Boot
+TypeScript
+jQuery
+Bootstrap
+Tailwind CSS
+Express.js
+GraphQL
+REST APIs
+SOAP APIs
+PostgreSQL
+SQLite
+Firebase
+Snowflake
+Cassandra
+Redis
+Elasticsearch
+TensorFlow Lite
+OpenCV
+NLP
+Natural Language Processing
+Computer Vision
+Apache Kafka
+Power BI
+Tableau
+Figma
+Adobe XD
+Jenkins Pipelines
+GitLab CI/CD
+Prometheus
+Grafana
+Splunk
+QRadar
+Ethical Hacking
+Cryptography
+Network Security
+SD-WAN
+MQTT
+CoAP
+IoT Development
+Arduino
+Raspberry Pi
+Unreal Engine
+Unity
+OpenGL
+Scala
+MATLAB
+LabVIEW
+COBOL
+Assembly Language
+Shell Scripting
+PowerShell
+Laravel
+Symfony
+ASP.NET
+Ionic Framework
+Xamarin
+Flutter
+WebAssembly
+SASS
+LESS
+React Native
+Backbone.js
+Ember.js
+Knockout.js
+HBase
+DynamoDB
+CouchDB
+MariaDB
+Neo4j
+Memcached
+RabbitMQ
+Zookeeper
+Apache Airflow
+Kubernetes Helm
+Apache Spark Streaming
+Hive
+Pig
+Cloudera
+Databricks
+Elastic Stack
+VirtualBox
+Hyper-V
+Windows Power Automate
+Tech Support
+ITIL Framework
+Service Desk Management
+Disaster Recovery Planning
+Vulnerability Scanning
+OpenSSL
+Wireshark
+WireGuard
+Metasploit
+OWASP
+Chatbot Development
+Dialogflow
+Rasa
+Erlang
+Elixir
+Haskell
+F#
+Groovy
+Crystal
+Objective-C
+R programming
+Julia
+Fortran
+OpenCL
+CUDA
+EJS
+Handlebars.js
+Pug
+SQLAlchemy
+Mongoose.js
+Prisma
+WebRTC
+Microservices Architecture
+Event-Driven Architecture
+WebSockets
+MQTT Protocol
+GCP Firebase Functions
+AWS Lambda
+Azure Functions
+Serverless Framework
+CloudFormation
+Apache Beam
+Presto
+Google BigQuery
+Redshift
+Apache Flink
+Data Governance
+Data Lineage
+Data Quality Management
+Data Security
+Backup and Recovery
+SAN
+NAS
+RAID Configuration
+Jenkinsfile
+Vagrant
+GitFlow
+Branching Strategies
+Security Operation Centers
+Blue/Green Deployments
+Canary Releases
+PKI
+Blockchain Development
+Cryptocurrency Wallet Integration
+Firewalls
+Routing
+Huawei Technology Management
