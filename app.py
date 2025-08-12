@@ -98,7 +98,6 @@ def evaluate_CV_vs_Position(cv_info, jp_info):
     required_score = len(required_skills_matched) / len(jp_skills) * 100 if jp_skills else 0 # gets the % of skills found
     return {
         "score": required_score,
-        "cv_skills": list(cv_skills),
         "matched_skills": list(required_skills_matched),
         "required_skills": list(jp_skills)
     }

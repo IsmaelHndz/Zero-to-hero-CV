@@ -9,7 +9,7 @@ function App() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!description || !cvFile) {
-      alert("Por favor, completa todos los campos.");
+      alert("Please load all the information.");
       return;
     }
     setLoading(true);

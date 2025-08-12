@@ -1,215 +1,231 @@
-Python
-Java
-C++
-C#
-JavaScript
-HTML
-CSS
-SQL
-NoSQL
-MongoDB
-React
-Angular
-Vue.js
-Node.js
-PHP
-Ruby
-Swift
-Kotlin
-Android Development
-iOS Development
-Linux
-Windows Server
-Docker
-Kubernetes
-Git
-GitHub
-AWS
-Azure
-Google Cloud
-DevOps
-Artificial Intelligence
-AI
-Machine Learning
-Deep Learning
-LLM
-Large Language Model
-Prompt
-TensorFlow
-PyTorch
-Scikit-learn
-Pandas
-Numpy
-Data Analysis
-Big Data
-Hadoop
-Spark
-Cybersecurity
-Penetration Testing
-Blockchain
-Solidity
-Virtualization
-VMware
-UI/UX Design
-Agile
-Scrum
-Jenkins
-Ansible
-Terraform
-Rust
-Go
-Perl
-Bash Scripting
-Ruby on Rails
-Django
-Flask
-Spring Boot
-TypeScript
-jQuery
-Bootstrap
-Tailwind CSS
-Express.js
-GraphQL
-REST APIs
-SOAP APIs
-PostgreSQL
-SQLite
-Firebase
-Snowflake
-Cassandra
-Redis
-Elasticsearch
-TensorFlow Lite
-OpenCV
-NLP
-Natural Language Processing
-Computer Vision
-Apache Kafka
-Power BI
-Tableau
-Figma
+.NET
 Adobe XD
-Jenkins Pipelines
-GitLab CI/CD
-Prometheus
-Grafana
-Splunk
-QRadar
-Ethical Hacking
-Cryptography
-Network Security
-SD-WAN
-MQTT
-CoAP
-IoT Development
-Arduino
-Raspberry Pi
-Unreal Engine
-Unity
-OpenGL
-Scala
-MATLAB
-LabVIEW
-COBOL
-Assembly Language
-Shell Scripting
-PowerShell
-Laravel
-Symfony
-ASP.NET
-Ionic Framework
-Xamarin
-Flutter
-WebAssembly
-SASS
-LESS
-React Native
-Backbone.js
-Ember.js
-Knockout.js
-HBase
-DynamoDB
-CouchDB
-MariaDB
-Neo4j
-Memcached
-RabbitMQ
-Zookeeper
+Agile
+AI
+Android Development
+Angular
+Ansible
 Apache Airflow
-Kubernetes Helm
-Apache Spark Streaming
-Hive
-Pig
-Cloudera
-Databricks
-Elastic Stack
-VirtualBox
-Hyper-V
-Windows Power Automate
-Tech Support
-ITIL Framework
-Service Desk Management
-Disaster Recovery Planning
-Vulnerability Scanning
-OpenSSL
-Wireshark
-WireGuard
-Metasploit
-OWASP
-Chatbot Development
-Dialogflow
-Rasa
-Erlang
-Elixir
-Haskell
-F#
-Groovy
-Crystal
-Objective-C
-R programming
-Julia
-Fortran
-OpenCL
-CUDA
-EJS
-Handlebars.js
-Pug
-SQLAlchemy
-Mongoose.js
-Prisma
-WebRTC
-Microservices Architecture
-Event-Driven Architecture
-WebSockets
-MQTT Protocol
-GCP Firebase Functions
-AWS Lambda
-Azure Functions
-Serverless Framework
-CloudFormation
 Apache Beam
-Presto
-Google BigQuery
-Redshift
 Apache Flink
+Apache Kafka
+Apache Spark Streaming
+Arduino
+AI
+Artificial Intelligence
+ASP.NET
+Assembly Language
+AWS
+AWS Lambda
+Azure
+Azure Functions
+Backbone.js
+Backup and Recovery
+Bash Scripting
+Big Data
+Blockchain
+Blockchain Development
+Blue/Green Deployments
+Bootstrap
+Branching Strategies
+C#
+C++
+Canary Releases
+Cassandra
+Chatbot Development
+Cloudera
+CloudFormation
+CoAP
+COBOL
+Computer Vision
+CouchDB
+Cryptocurrency Wallet Integration
+Cryptography
+Crystal
+CSS
+CUDA
+Cybersecurity
+Data Analysis
 Data Governance
 Data Lineage
 Data Quality Management
 Data Security
-Backup and Recovery
-SAN
-NAS
-RAID Configuration
-Jenkinsfile
-Vagrant
-GitFlow
-Branching Strategies
-Security Operation Centers
-Blue/Green Deployments
-Canary Releases
-PKI
-Blockchain Development
-Cryptocurrency Wallet Integration
+Databricks
+Deep Learning
+DevOps
+Dialogflow
+Disaster Recovery Planning
+Django
+Docker
+DynamoDB
+EJS
+Elastic Stack
+Elasticsearch
+Elixir
+Ember.js
+Erlang
+Ethical Hacking
+Event-Driven Architecture
+Express.js
+F#
+Figma
+Firebase
 Firewalls
-Routing
+Flask
+Flutter
+Fortran
+GCP
+GCP Firebase Functions
+Git
+GitFlow
+GitHub
+GitLab CI/CD
+Go
+Google BigQuery
+Google Cloud
+Grafana
+GraphQL
+Groovy
+Hadoop
+Handlebars.js
+Haskell
+HBase
+Hive
+HTML
 Huawei Technology Management
+Hyper-V
+Ionic Framework
+iOS Development
+IoT Development
+ITIL Framework
+Java
+JavaScript
+JDE
+Jenkins
+Jenkins Pipelines
+Jenkinsfile
+jQuery
+Julia
+Jupyter Notebooks
+Knockout.js
+Kotlin
+Kubernetes
+Kubernetes Helm
+LabVIEW
+Laravel
+Large Language Model
+Lean Six Sigma
+LESS
+Linux
+LLM
+ML
+Machine Learning
+mlflow
+MariaDB
+MATLAB
+Memcached
+Metasploit
+Microservices Architecture
+MongoDB
+Mongoose.js
+MS SQL Server
+MQTT
+MQTT Protocol
+MySQL
+NAS
+Natural Language Processing
+Neo4j
+Network Security
+NLP
+Node.js
+NoSQL
+Numpy
+Objective-C
+OCI
+Oracle Cloud Infrastructure
+OpenCL
+OpenCV
+OpenGL
+OpenSSL
+OWASP
+Pandas
+Penetration Testing
+Perl
+PHP
+Pig
+PKI
+PostgreSQL
+Power BI
+PowerShell
+Presto
+Prisma
+Prometheus
+Prompt
+Pug
+Python
+PyTorch
+QRadar
+R programming
+RabbitMQ
+RAID Configuration
+Rasa
+Raspberry Pi
+React
+React Native
+Redis
+Redshift
+REST APIs
+Routing
+Ruby
+Ruby on Rails
+Rust
+SAN
+SASS
+Scala
+Scikit-learn
+Scrum
+SD-WAN
+Security Operation Centers
+Serverless Framework
+Service Desk Management
+Shell Scripting
+Snowflake
+SOAP APIs
+Solidity
+Spark
+Splunk
+Spring Boot
+SQL
+SQLAlchemy
+SQLite
+Swift
+Symfony
+Tableau
+Tailwind CSS
+Tech Support
+TensorFlow
+TensorFlow Lite
+Terraform
+TypeScript
+UI
+User Interface
+UX 
+User Design
+UI/UX Design
+Unity
+Unreal Engine
+Vagrant
+VirtualBox
+Virtualization
+VMware
+Vue.js
+Vulnerability Scanning
+WebAssembly
+WebRTC
+WebSockets
+Windows Power Automate
+Windows Server
+WireGuard
+Wireshark
+Xamarin
+Zookeeper
